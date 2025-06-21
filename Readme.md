@@ -1,1 +1,1 @@
-
+Spring Boot & JPA backend demo: DI, IoC, JPA relationships (@OneToMany, @ManyToMany), Flyway migrations, dynamic queries (Criteria API), pagination, and transaction management. Solved N+1 problem with @EntityGraph. Built with Lombok, JPA Buddy, MySQL.
